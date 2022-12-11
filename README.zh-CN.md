@@ -1,7 +1,7 @@
 # echow
 echow 是一个生成 echo 命令来写入二进制文件的小工具。
 
-[简体中文](Readme.zh-CN.md) | [English](Readme.md)
+[简体中文](README.zh-CN.md) | [English](README.md)
 
 
 

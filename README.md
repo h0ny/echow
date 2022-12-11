@@ -1,7 +1,7 @@
 # echow
 echow is a small tool that generates echo commands to write binary file.
 
-[简体中文](Readme.zh-CN.md) | [English](Readme.md)
+[简体中文](README.zh-CN.md) | [English](README.md)
 
 
 
